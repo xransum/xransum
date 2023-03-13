@@ -3,10 +3,10 @@
 Welcome to my page! I'm Kevin, a data-center engineer for AWS from **<img src="https://cdn-icons-png.flaticon.com/512/3013/3013911.png" width="13"/> <b>Northern Virginia</b>**, currently as a hobby I do fullstack development and penestration testing.
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/the-ransum" alt="Profile Views"> •  
+  <img src="https://gpvc.arturio.dev/xransum" alt="Profile Views"> •  
   <a href="https://kevin-haas.com">My Website</a> •
   <a href="#">Twitter</a> •
-  <a href="https://github.com/the-ransum/About.md">About Readme</a>
+  <a href="https://github.com/xransum/About.md">About Readme</a>
 </p>
 
 
@@ -35,7 +35,7 @@ Welcome to my page! I'm Kevin, a data-center engineer for AWS from **<img src="h
 
 <h3>Where to find me</h3>
 
-[Github](https://github.com/the-ransum)
+[Github](https://github.com/xransum)
 [Twitter](#)
 [LinkedIn](https://www.linkedin.com/in/kevinahaas/)
 [Buy me Coffee](https://www.buymeacoffee.com/kevinhaas)
