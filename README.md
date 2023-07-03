@@ -3,6 +3,7 @@
 Welcome to my page! I'm Kevin, a data-center engineer for AWS from **<img src="https://cdn-icons-png.flaticon.com/512/3013/3013911.png" width="13"/> <b>Northern Virginia</b>**, currently as a hobby I do fullstack development and penestration testing.
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=xransum" alt="Profile Views">
   <img src="https://gpvc.arturio.dev/xransum" alt="Profile Views"> •  
   <a href="https://kevin-haas.com">My Website</a> •
   <a href="#">Twitter</a> •
