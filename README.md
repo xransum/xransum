@@ -35,7 +35,10 @@ Welcome to my page! I'm Kevin, a data-center engineer for AWS from **<img src="h
 
 <h3>Where to find me</h3>
 
-[Github](https://github.com/xransum)
-[Twitter](#)
-[LinkedIn](https://www.linkedin.com/in/kevinahaas/)
-[Buy me Coffee](https://www.buymeacoffee.com/kevinhaas)
+<p style="text-align: center;">
+  <a style="margin: 0 0.5em;" href="https://kevin-haas.com/">My Blog</a>
+  <a style="margin: 0 0.5em;" href="https://github.com/xransum">Github</a>
+  <a style="margin: 0 0.5em;" href="https://www.linkedin.com/in/kevinahaas/">LinkedIn</a>
+  <a style="margin: 0 0.5em;" href="javascript:void(0)">Twitter</a>
+  <a style="margin: 0 0.5em;" href="https://www.buymeacoffee.com/kevinhaas">Contribute with Coffee</a>
+</p>
