@@ -9,8 +9,6 @@ Welcome! I'm Kevin, a T&S Abuse Investigation & Prevention Specialist for AWS in
   &ndash;
   <a href="#">Twitter</a>
   &ndash;
-  <a href="https://www.buymeacoffee.com/kevinhaas">Contribute with Coffee</a>
-  &ndash;
   <a href="https://github.com/xransum/About.md">About Readme</a>
   &ndash;
   <a href="https://www.buymeacoffee.com/kevinhaas">Contribute with Coffee</a>
